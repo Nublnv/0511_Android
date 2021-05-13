@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="yes">Нажми меня</string>
+    <string name="no">Не жми меня</string>
+    <string name="correct">Good</string>
+    <string name="incorrect">Bad</string>
 </resources>

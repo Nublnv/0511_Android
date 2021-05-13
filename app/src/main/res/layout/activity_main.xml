@@ -20,33 +20,33 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button1"
+        android:id="@+id/buttonYes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#93E40F"
         android:fontFamily="casual"
-        android:text="Нажми меня"
+        android:text="@string/yes"
         android:textAllCaps="false"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/button2"
+        app:layout_constraintEnd_toStartOf="@+id/buttonNo"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView"
         app:layout_constraintVertical_bias="0.257" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/buttonNo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#1444BC"
         android:fontFamily="cursive"
-        android:text="Не жми меня"
+        android:text= "@string/no"
         android:textAllCaps="false"
         android:textColor="#FFFFFF"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@id/button1"
+        app:layout_constraintStart_toEndOf="@id/buttonYes"
         app:layout_constraintTop_toBottomOf="@+id/textView"
         app:layout_constraintVertical_bias="0.257" />
 
