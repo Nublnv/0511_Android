@@ -6,8 +6,6 @@ import android.os.Bundle;
 import android.view.*;
 import android.widget.*;
 
-import java.util.ArrayList;
-import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
