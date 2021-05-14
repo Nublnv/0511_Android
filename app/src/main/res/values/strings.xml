@@ -1,7 +1,14 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="yes">Нажми меня</string>
-    <string name="no">Не жми меня</string>
-    <string name="correct">Good</string>
-    <string name="incorrect">Bad</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="showAnswer">Показать ответ</string>
+    <string name="correct">Правильно!</string>
+    <string name="incorrect">Непривильно:(</string>
+    <string name="question0">2 + 2 = 4?</string>
+    <string name="question1">Лондон столица Великобритании?</string>
+    <string name="question2">Арбуз это фрукт?</string>
+    <string name="question3">Земля центр вселенной?</string>
+    <string name="question4">Железо твердое?</string>
+    <string name="question5">Улитка самое быстрое существо на Земле?</string>
 </resources>
